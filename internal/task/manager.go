@@ -3,7 +3,7 @@ package task
 import (
 	"go.uber.org/zap"
 	"sync"
-	"tiktok-uploader/log"
+	"stealer/log"
 
 	"github.com/pkg/errors"
 	"github.com/robfig/cron/v3"

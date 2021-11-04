@@ -1,7 +1,7 @@
 package session
 
 import (
-	"tiktok-uploader/internal/infra/database"
+	"stealer/internal/infra/database"
 	"time"
 )
 

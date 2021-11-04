@@ -2,7 +2,7 @@ package log
 
 import (
 	"go.uber.org/zap"
-	"tiktok-uploader/configs"
+	"stealer/configs"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"io"
 	"io/ioutil"
 	"mime/multipart"
-	"tiktok-uploader/log"
+	"stealer/log"
 )
 
 func Open(f *multipart.FileHeader) (multipart.File, error) {

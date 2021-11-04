@@ -1,9 +1,9 @@
 package main
 
 import (
-	"tiktok-uploader/configs"
-	"tiktok-uploader/internal/infra/database"
-	"tiktok-uploader/internal/task"
+	"stealer/configs"
+	"stealer/internal/infra/database"
+	"stealer/internal/task"
 )
 
 func init()  {

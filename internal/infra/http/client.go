@@ -8,7 +8,7 @@ import (
 	"mime/multipart"
 	"net/http"
 	"net/url"
-	"tiktok-uploader/log"
+	"stealer/log"
 	"unsafe"
 )
 

@@ -3,6 +3,7 @@ module stealer
 go 1.15
 
 require (
+	github.com/gin-gonic/gin v1.7.4
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/pkg/errors v0.8.1
 	github.com/robfig/cron/v3 v3.0.1

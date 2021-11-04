@@ -4,7 +4,7 @@ import (
 	"github.com/natefinch/lumberjack"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"tiktok-uploader/configs"
+	"stealer/configs"
 )
 
 var ZapLogger *zap.Logger

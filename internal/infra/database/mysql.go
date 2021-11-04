@@ -5,7 +5,7 @@ import (
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
-	"tiktok-uploader/configs"
+	"stealer/configs"
 	"time"
 )
 
