@@ -26,7 +26,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-dist/
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -132,3 +132,6 @@ video/*/
 
 *.pid
 !appfront/build
+
+
+.DS_Store
