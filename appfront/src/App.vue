@@ -6,9 +6,9 @@
     </div>
     <router-view/>
     <div style="position:fixed; bottom: 5px; text-align: right">
-      <el-link href="https://github.com/moyada/stealer/issues"
+      <el-link href=""
                type="primary" style="margin-left: 20px" target="_blank">
-        问题反馈
+
       </el-link>
     </div>
   </div>
